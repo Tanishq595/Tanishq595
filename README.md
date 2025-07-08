@@ -35,6 +35,8 @@ Welcome to my GitHub profile!
 ## 🌟 Featured Projects
 
 - [**Restaurant Finder**](https://github.com/Tanishq595/restaurant-finder) — AI-powered restaurant recommendation app
+- [**Theme Management**](https://github.com/Tanishq595/ThemeManagement) — Manage Databases with a user-friendly UI
+- [**Crypto Web Application**](https://github.com/Tanishq595/BifrostSample1) — A crypto app for users to register/login wallets and make transactions
 - [More projects...](#)
 
 ---
